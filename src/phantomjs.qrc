@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>remote_debugger_harness.html</file>
+        <file>phantomjs-icon.png</file>
+        <file>coffee-script.js</file>
+        <file>usage.txt</file>
+        <file>bootstrap.js</file>
+        <file>configurator.js</file>
+        <file>modules/webpage.js</file>
+        <file>modules/webserver.js</file>
+        <file>modules/fs.js</file>
+        <file>modules/system.js</file>
+        <file>repl.js</file>
+    </qresource>
+</RCC>
